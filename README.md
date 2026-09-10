@@ -59,26 +59,23 @@ O aplicativo é **portátil**: pode ficar em um pendrive e funciona em qualquer 
 
 ## 🖼️ Prints do aplicativo
 
-> 📌 **Para você:** crie a pasta `docs/screenshots/` no repositório e salve os prints com
-> os nomes abaixo. As imagens aparecerão automaticamente aqui.
-
 ### Tela principal — Lotes de Capítulos
-![Aba Lotes de Capítulos](docs/screenshots/01-lotes.png)
+![Aba Lotes de Capítulos](01-lotes.png)
 
 ### Conversão de PDF
-![Aba Conversão PDF](docs/screenshots/02-pdf.png)
+![Aba Conversão PDF](02-pdf.png)
 
 ### Conversão de EPUB
-![Aba Conversão EPUB](docs/screenshots/03-epub.png)
+![Aba Conversão EPUB](03-epub.png)
 
 ### Mesclar Arquivos
-![Aba Mesclar Arquivos](docs/screenshots/04-mesclar.png)
+![Aba Mesclar Arquivos](04-mesclar.png)
 
 ### Fontes Manga (busca e download)
-![Aba Fontes Manga](docs/screenshots/05-fontes-manga.png)
+![Aba Fontes Manga](05-fontes-manga.png)
 
 ### Sobre e Apoiar
-![Aba Sobre e Apoiar](docs/screenshots/06-sobre-apoiar.png)
+![Aba Sobre e Apoiar](06-sobre-apoiar.png)
 
 ---
 
@@ -280,8 +277,8 @@ Sua ajuda mantém os servidores, as fontes atualizadas e novas funcionalidades c
 
 ## 🌐 Comunidade
 
-- 📝 **Blogger:** [hydraani.blogspot.com](https://hydraani.blogspot.com/)
-- 💬 **Telegram:** [t.me/+Ro3nukr5CjU0NTRh](https://t.me/+Ro3nukr5CjU0NTRh)
+- 📝 **Blogger:** 
+- 💬 **Telegram:** 
 - 🤖 **Grupo Android Hydra Ani:** [t.me/+p7-RyWDRRVhlMTdh](https://t.me/+p7-RyWDRRVhlMTdh)
 
 ---
@@ -323,7 +320,6 @@ Sua ajuda mantém os servidores, as fontes atualizadas e novas funcionalidades c
 
 <p align="center">
   <a href="https://livepix.gg/hydraani"><img src="https://img.shields.io/badge/Apoiar-LivePix-00b894" alt="Apoiar"></a>
-  <a href="https://hydraani.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-hydraani-orange" alt="Blogger"></a>
-  <a href="https://t.me/+Ro3nukr5CjU0NTRh"><img src="https://img.shields.io/badge/Telegram-Comunidade-2CA5E0" alt="Telegram"></a>
+  <a href="https://t.me/+p7-RyWDRRVhlMTdh"><img src="https://img.shields.io/badge/Telegram-Comunidade-2CA5E0" alt="Telegram"></a>
 </p>
 
