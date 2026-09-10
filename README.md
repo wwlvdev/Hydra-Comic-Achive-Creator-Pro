@@ -36,7 +36,7 @@ Com ele você consegue, sem usar linha de comando e sem instalar nada:
 
 ## ⬇️ Download
 
-1. Acesse a aba **[Releases](https://github.com/welligtonmal/HydraComicArchiveCreator/releases/latest)**.
+1. Acesse a aba **[Releases](https://github.com/wwlvdev/HydraComicArchiveCreator/releases/latest)**.
 2. Baixe o arquivo **`HydraComicArchiveCreatorBETA_v0.0.1.zip`**.
 3. Extraia o ZIP em qualquer pasta.
 4. Dê dois cliques em **`HydraComicArchiveCreatorBETA.exe`** e pronto! ✅
